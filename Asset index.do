@@ -1,5 +1,5 @@
 *This data set comes from the Ethiopian Rural Socioeconomic Survey 
-version  13.1
+version  13.0
 clear all
 set more off
 global   raw    "C:\Users\Fitsum\Dropbox\Staples Calorie Approach\data\raw"
